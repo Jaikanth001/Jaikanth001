@@ -1,8 +1,8 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 # 💫 About Me:
 👋 Hi, I’m a student at KL University, diving into the worlds of **cybersecurity** and **game development**. I code in **Python, Java, C**, and I’m skilled with **HTML, CSS, and JavaScript** for scripting and front-end work. Constantly exploring tech and building projects that bring ideas to life!
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 
 ## 🌐 Socials:
