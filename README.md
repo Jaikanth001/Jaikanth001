@@ -2,6 +2,8 @@
 # 💫 About Me:
 👋 Hi, I’m a student at KL University, diving into the worlds of **cybersecurity** and **game development**. I code in **Python, Java, C**, and I’m skilled with **HTML, CSS, and JavaScript** for scripting and front-end work. Constantly exploring tech and building projects that bring ideas to life!
 
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaikanthh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaikanth-kamisetti-922184225) 
