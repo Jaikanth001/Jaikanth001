@@ -14,12 +14,14 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaikanth001&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaikanth001&theme=neon&hide_border=false" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaikanth001&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaikanth001&theme=neon&hide_border=false" alt="GitHub Streak" width="400" height="200">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikanth001&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikanth001&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="800">
 </p>
+
 
 ## 🏆 GitHub Trophies
 
